@@ -1,5 +1,5 @@
 # EXP-5-DFF-TFF
-# Design and Verification of D Flip-Flop and T Flip-Flop
+# Design and Verification of D Flip-Flop and T Flip-Flop 
 ## Aim
 To design and verify a D Flip-Flop and a T Flip-Flop using Verilog HDL, and to observe their behaviour using a testbench and VCD waveform.
 ## Theory / Synopsis
