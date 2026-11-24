@@ -136,8 +136,7 @@ A DVE environment will open.
 In DVE:
 ●	Open the testbench hierarchy.
 
-●	Locate the signals: clk, rst, D, Qd, T, Qt.
-
+●	Locate the signals: clk, rst, D, Qd, T, Qt. 
 ●	Add the signals to the waveform window.
 
 ●	Run / inspect the waveform.
